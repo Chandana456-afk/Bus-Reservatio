@@ -1,0 +1,2 @@
+What is current seat availability?
+Current seat availability refers to the real-time status of available seats on a particular train and date.
